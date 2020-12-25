@@ -30,6 +30,6 @@
 
 const { invoke } = require('./lib/base');
 
-invoke('akcchannel',['peer0-operator20.operator20'],'pits_cc','CreateError',"asdf",'operator20','operator20').then(res =>{console.log(res)}).catch(err => {});
+// invoke('akcchannel',['peer0-operator20.operator20'],'pits_cc','CreateError',"asdf",'operator20','operator20').then(res =>{console.log(res)}).catch(err => {});
 // invoke('akcchannel',[],'pits_cc','CreateError',"asdf",'operator20','operator20').then(res =>{console.log(res)}).catch(err => {});
 // module.exports =
