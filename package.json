@@ -1,7 +1,7 @@
 {
-  "name": "@akachain/akc-node-sdk",
-  "author": "hoangnh, hongsongp97, longnh, hainq, huanlv, thienlk",
-  "version": "v2.2.3",
+  "name": "@akachain/akc-node-sdk-2.0",
+  "author": "hainq, thienlk",
+  "version": "v1.0.0",
   "description": "AKC node.js SDK for Decentralized Application to connect to Fabric Peers",
   "engines": {
     "node": ">=12",
@@ -25,5 +25,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": "git://github.com/Akachain/akc-node-sdk.git"
+  "repository": "git://github.com/Akachain/akc-node-sdk-2.0.git"
 }
