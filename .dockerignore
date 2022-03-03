@@ -1,0 +1,6 @@
+node_modules
+/dist
+crypto-config*
+artifacts
+logs
+package-lock.json
